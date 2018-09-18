@@ -1,3 +1,6 @@
 fichero 2
 
-emilio deja de modificar cosas porque solo afectan a la rama desarrollo porfavor
+tranquilos que no hay conflictos
+
+emilio deja de modificar cosas porque solo afectan a la rama desarrollo porfavor y vas a causar un C O N F L I C T O
+
